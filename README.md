@@ -1,5 +1,5 @@
 # Store-and-Shopping-System
-developing a virtual system for a store where customers can add items to their cart and checkout when they finished. 
+Developing a virtual system for a store where customers can add items to their cart and checkout when they finished. 
 This is a menu driven program used by interacting with the console terminal.
 
 The Store has its name, location and a list of items that are in stock. At the start, the store is stocked from a database file which contains a description of items 
