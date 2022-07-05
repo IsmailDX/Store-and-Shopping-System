@@ -1,0 +1,13 @@
+Clothing 1001 PoloShirt 20.35 100 23 Black Male
+Clothing 1002 NikeShoes 10.25 20 13 White All
+Computer 1003 LenovoThinkpad 1050.99 2 Brand i7-10610U 8 512
+Computer 1009 HP-Omen 4399.99 6 Brand i9-10610Q 16 512
+Food 1004 Sushi 30.95 60 1170 false
+Food 1005 MightyZinger 9.95 15 80 true
+Beverage 1006 Cola 3.25 50 0.5 false
+Beverage 1006 Cola 3.25 50 0.5 false
+Beverage 1007 Pepsi 3.25 50 0.5 false
+Beverage 1006 Cola 3.25 50 0.5 false
+Beverage 1006 Cola 3.25 50 0.5 false
+Bike 1008 BMX 100.25 30 Bimbo LightBike
+Bike 1010 MountainBike 210.25 30 Everlast StrongBike
