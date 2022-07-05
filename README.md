@@ -15,3 +15,4 @@ have an exception. The customer should also have the option to completely empty 
 Finally, at check out you should print the bill to a file with the list of items and the final amount to be paid. If the customer wants to check out with no items in 
 their cart, there is no need for a bill.
 
++ Run the tester code to run the program
